@@ -1,14 +1,14 @@
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background-color: #75196799;
+  background-color: #198046;
 }
 
 .row {
   border: 2px solid black;
 }
 
-.col-sm-4 {
+.col-sm-2 {
   border: 2px solid black;
 }
 
