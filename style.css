@@ -8,7 +8,7 @@ body {
   border: 2px solid black;
 }
 
-.col-sm-2 {
+div.col-sm-4 {
   border: 2px solid black;
 }
 
@@ -25,5 +25,13 @@ body {
 }
 
 .bg-love {
-  background-color: #fffefe
+  background-color: #ff98ea;
+}
+
+.bg-dark:hover, .bg-dark {
+  color: white;
+}
+
+table {
+  margin-top: 100px;
 }
