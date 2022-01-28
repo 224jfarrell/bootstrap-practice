@@ -35,3 +35,7 @@ div.col-sm-4 {
 table {
   margin-top: 100px;
 }
+
+.close {
+  float: right;
+}
