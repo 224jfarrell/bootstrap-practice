@@ -39,3 +39,8 @@ table {
 .close {
   float: right;
 }
+
+.linky {
+  text-decoration: none;
+  color: black;
+}
