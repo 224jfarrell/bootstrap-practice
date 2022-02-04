@@ -1,7 +1,7 @@
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background-color: #198046;
+  background-color: #014688;
 }
 
 .row {
@@ -43,4 +43,12 @@ table {
 .linky {
   text-decoration: none;
   color: black;
+}
+
+.gaming:hover {
+  background-color: #808080;
+}
+
+.game:hover {
+  background-color: #80c0ff;
 }
