@@ -52,3 +52,12 @@ table {
 .game:hover {
   background-color: #80c0ff;
 }
+
+.linkyy {
+  color: white;
+  text-decoration: none;
+}
+
+.linkyy:hover {
+  color: white;
+}
