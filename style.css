@@ -61,3 +61,16 @@ table {
 .linkyy:hover {
   color: white;
 }
+
+.resize {
+  width: 640px;
+  height: 648px;
+  border-radius: 25px;
+}
+
+.carousel {
+  width: 640px;
+  margin: auto;
+  background-color: #202030;
+  border-radius: 25px;
+}
