@@ -77,3 +77,19 @@ table {
   -webkit-box-pack: center;
   -webkit-box-align: center;
 }
+
+.justify-content-center, .align-items-center, .center {
+  margin: auto;
+}
+
+.br-5 {
+  margin-top: 200px;
+}
+
+.br-3 {
+  margin-top: 120px;
+}
+
+.br-b-2 {
+  margin-bottom: 80px;
+}
